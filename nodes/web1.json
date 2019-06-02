@@ -1,0 +1,6 @@
+{
+  "name": "web1",
+  "run_list": [
+    "recipe[packages]"
+  ]
+}
